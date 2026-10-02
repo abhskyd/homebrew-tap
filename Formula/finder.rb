@@ -1,8 +1,8 @@
 class Finder < Formula
   desc "Fast, modern TUI file manager — sidebar, fuzzy finder, git integration"
   homepage "https://github.com/abhskyd/finder"
-  url "https://github.com/abhskyd/finder/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a8aad4c8f2a07aa6a00c73b2dac99c37897ae9065f84aebaef05740d3b6b00ae"
+  url "https://github.com/abhskyd/finder/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "94243b01f78a85d42ebac378a636d6a50d665c2335914e3ab909daa304b196cb"
   license "MIT"
 
   depends_on "rust" => :build
