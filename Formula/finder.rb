@@ -7,7 +7,7 @@ class Finder < Formula
   # Apple Silicon: prebuilt binary — installs instantly, no toolchain.
   on_arm do
     url "https://github.com/abhskyd/finder/releases/download/v0.1.1/finder-aarch64-apple-darwin.tar.gz"
-    sha256 "a4026dafed1708fc7b6b2c5618e0186d2cb864fb1045eb726e00265aa2021154"
+    sha256 "85a9cf085b1fd34c77648e0c6d1cfb7ed1502d26a6ec560e26172d8690f44f3f"
   end
 
   # Intel macs and Linux: build from source (Rust is a build dependency).
